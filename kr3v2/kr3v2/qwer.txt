@@ -1,0 +1,6 @@
+Comparison		Swap
+QuickSort10		5
+SelectionSort15		4
+ShellSort21		6
+BubbleSort15		12
+InsertionSort13		12
